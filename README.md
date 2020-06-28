@@ -4,13 +4,13 @@
 
 <img src="https://res.cloudinary.com/boolean-spa/image/upload/v1589763530/html_tczgrv.jpg" width=250 align="center">
 
-### Capítulo 1: Historia y estado actual
+### Capítulo 2: Accesibilidad y semántica
 
 #### Contenidos :books:
-👉🏻 &nbsp;El nacimiento de Internet y del consorcio World Wide Web (W3C).<br/>
-👉🏻 &nbsp;¿Qué es HTML?<br/>
-👉🏻 &nbsp;Orígenes y evolución en el tiempo.<br/>
-👉🏻 &nbsp;Comparativa HTML4 vs HTML5.<br/>
+
+👉🏻 &nbsp;Fundamentos de Accessibilidad.<br/>
+👉🏻 &nbsp;Su impacto en la Ingeniería de Software.<br/>
+👉🏻 &nbsp;Buenas prácticas a la hora de escribir documentos electrónicos.<br/>
 
 Programa completo [aquí](#)
 
